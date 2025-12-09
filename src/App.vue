@@ -2,9 +2,8 @@
 
 <template>
   <h1>You did it!</h1>
-  <p>
-    Visit <a href="https://vuejs.org/" target="_blank" rel="noopener">vuejs.org</a> to read the
-    documentation
+  <p class="text-3xl">
+    Visit to read the documentation
   </p>
 </template>
 
