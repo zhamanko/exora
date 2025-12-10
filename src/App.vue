@@ -1,10 +1,9 @@
-<script setup></script>
+<script setup>
+  import MainPage from './views/Main.vue';
+
+</script>
 
 <template>
-  <h1>You did it!</h1>
-  <p class="text-3xl">
-    Visit to read the documentation
-  </p>
+  <MainPage />
 </template>
 
-<style scoped></style>
